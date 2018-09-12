@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Qua 29 Ago 2018 20:00:18 -03 by SUMO gui Version 0.32.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/lauro/Documentos/Mestrado/T3/sumo/sumo-0.32.0/docs/tutorial/traci_tls/sma/cross.net.xml"/>
+        <route-files value="/home/lauro/Documentos/Mestrado/T3/sumo/sumo-0.32.0/docs/tutorial/traci_tls/sma/cross.rou.xml"/>
+        <additional-files value="/home/lauro/Documentos/Mestrado/T3/sumo/sumo-0.32.0/docs/tutorial/traci_tls/sma/cross.det.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+    </time>
+
+    <report>
+        <verbose value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>

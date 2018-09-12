@@ -1,0 +1,35 @@
+Could not connect to TraCI server at localhost:46359 [Errno 111] Connection refused
+ Retrying in 1 seconds
+pink@127.0.0.1| Starting Behaviours.
+pink@127.0.0.1| Arriving at crossing.
+yellow@127.0.0.1| Starting Behaviours.
+yellow@127.0.0.1| Arriving at crossing.
+red@127.0.0.1| Starting Behaviours.
+red@127.0.0.1| Arriving at crossing.
+pink@127.0.0.1| Sending message.
+yellow@127.0.0.1| Sending message.
+red@127.0.0.1| Sending message.
+pink@127.0.0.1| Waiting.
+yellow@127.0.0.1| Waiting.
+red@127.0.0.1| Waiting.
+pink@127.0.0.1| Deciding.
+yellow@127.0.0.1| Deciding.
+red@127.0.0.1| Deciding.
+pink@127.0.0.1| Staying.
+yellow@127.0.0.1| Coming.
+red@127.0.0.1| Staying.
+pink@127.0.0.1| Sending message.
+red@127.0.0.1| Sending message.
+pink@127.0.0.1| Waiting.
+yellow@127.0.0.1| Crossing complete.
+red@127.0.0.1| Waiting.
+pink@127.0.0.1| Deciding.
+red@127.0.0.1| Deciding.
+pink@127.0.0.1| Coming.
+red@127.0.0.1| Staying.
+red@127.0.0.1| Sending message.
+pink@127.0.0.1| Crossing complete.
+red@127.0.0.1| Waiting.
+red@127.0.0.1| Deciding.
+red@127.0.0.1| Coming.
+red@127.0.0.1| Crossing complete.
